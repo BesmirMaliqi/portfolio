@@ -1,1 +1,1 @@
-# This is my personal Portfolio - [here](https://besmirmaliqi.github.io/Portfolio/)
+# This is my personal Portfolio - [here](https://besmirmaliqi.github.io/portfolio/)
