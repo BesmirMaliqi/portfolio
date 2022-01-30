@@ -194,6 +194,7 @@ header .navbar ul li a:hover{
     font-size:2rem;
     color:#eee;
     padding: 1rem 0;
+    text-align: justify;
 }
 
 .about .row{
@@ -215,6 +216,9 @@ header .navbar ul li a:hover{
     color:var(--green);
     padding:1rem 0;
     font-weight: normal;
+}
+.lower-case{
+    text-transform: lowercase !important;
 }
 
 .about .row .info h3 span{
